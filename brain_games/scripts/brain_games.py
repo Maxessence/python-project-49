@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 
-from brain_games import engeri
+from brain_games.games.brain_games import welcome_user
 
 
 def main():
-    print("Welcome to the Brain Games!")
-    engeri.welcome_user()
+    welcome_user()
 
 
 if __name__ == '__main__':
