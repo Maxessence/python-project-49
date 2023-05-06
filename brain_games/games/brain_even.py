@@ -8,7 +8,8 @@ def is_even(number):
 RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-def task():
+def get_task_arguments():
     task_question = randint(1, 100)
     correct_answer = 'yes' if is_even(task_question) else 'no'
+    # передача значений в модуль логики игры
     return task_question, correct_answer
