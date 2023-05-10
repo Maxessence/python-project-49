@@ -13,5 +13,4 @@ def get_task_arguments():
     operator = random.choice(keys)
     task_question = "{} {} {}".format(number1, operator, number2)
     correct_answer = str(operators[operator](number1, number2))
-    # передача значений в модуль логики игры
     return task_question, correct_answer
