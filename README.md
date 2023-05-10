@@ -19,11 +19,19 @@
 Демонстрация игр:
 
 Игра: "Проверка на чётность"
-<script src="https://asciinema.org/a/QSCu7Pdb5VvpW7qZLLA2vqtEX" id="QSCu7Pdb5VvpW7qZLLA2vqtEX" async></script>  
-Игра: "Калькулятор" - https://asciinema.org/a/P6cAGvXX2U7bwYe9A7Vu9waKt  
-Игра "НОД" - https://asciinema.org/a/67jcx5FzIkC3vEI5bdRQ9Hj9I  
-Игра "Арифметическая прогрессия" - https://asciinema.org/a/v4CglxamiyySvquaP2Fv2bTJ4  
-Игра "Простое ли число?" - https://asciinema.org/a/1pYczWnjaR5wS0Fkwv9R7iMJP  
+<a href="https://asciinema.org/a/QSCu7Pdb5VvpW7qZLLA2vqtEX" target="_blank"><img src="https://asciinema.org/a/QSCu7Pdb5VvpW7qZLLA2vqtEX.svg" /></a>
+
+Игра: "Калькулятор"
+<a href="https://asciinema.org/a/P6cAGvXX2U7bwYe9A7Vu9waKt" target="_blank"><img src="https://asciinema.org/a/P6cAGvXX2U7bwYe9A7Vu9waKt.svg" /></a>
+
+Игра "НОД"
+<a href="https://asciinema.org/a/67jcx5FzIkC3vEI5bdRQ9Hj9I" target="_blank"><img src="https://asciinema.org/a/67jcx5FzIkC3vEI5bdRQ9Hj9I.svg" /></a>
+
+Игра "Арифметическая прогрессия"
+<a href="https://asciinema.org/a/v4CglxamiyySvquaP2Fv2bTJ4" target="_blank"><img src="https://asciinema.org/a/v4CglxamiyySvquaP2Fv2bTJ4.svg" /></a>
+
+Игра "Простое ли число?"
+<a href="https://asciinema.org/a/1pYczWnjaR5wS0Fkwv9R7iMJP" target="_blank"><img src="https://asciinema.org/a/1pYczWnjaR5wS0Fkwv9R7iMJP.svg" /></a>
 
 
 
