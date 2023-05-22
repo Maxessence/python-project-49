@@ -7,7 +7,7 @@
 
 Серия игр, написанных на Python(версия 3).
 
-Установка - https://asciinema.org/a/KWNPU9y04Jj6aKpS87oxwwL7Q
+Установка - <a href="https://asciinema.org/a/KWNPU9y04Jj6aKpS87oxwwL7Q" target="_blank"><img src="https://asciinema.org/a/KWNPU9y04Jj6aKpS87oxwwL7Q.svg" /></a>
 
 Запуск игр:
 Игра: "Проверка на чётность" - brain-even  
